@@ -21,10 +21,7 @@ angular.module('listings').controller('ListingsController', ['$scope', 'Listings
      
 
     };
-    $scope.showDetails = function(index) {
-
-
-    };
+ 
 
      $scope.selectedPerson = function(entry, index) {
       $scope.selectedindex=index;
